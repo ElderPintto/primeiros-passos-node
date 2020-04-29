@@ -1,0 +1,16 @@
+{
+  "name": "primeiros-passos-node",
+  "version": "1.0.0",
+  "description": "Criando uma API com Node JS, os conceitos básicos para iniciantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elder Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
